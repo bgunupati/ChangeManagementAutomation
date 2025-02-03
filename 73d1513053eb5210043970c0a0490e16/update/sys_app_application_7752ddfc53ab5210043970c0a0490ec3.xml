@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Change Management Automation for Capstone</description>
+        <device_type>browser</device_type>
+        <hint>Change Management Automation for Capstone</hint>
+        <name/>
+        <order/>
+        <roles>itil,admin,change_manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 14:13:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7752ddfc53ab5210043970c0a0490ec3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Capstone Change Management Automation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capstone Change Management Automation" source="x_1587359_csccma">73d1513053eb5210043970c0a0490e16</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capstone Change Management Automation">73d1513053eb5210043970c0a0490e16</sys_scope>
+        <sys_update_name>sys_app_application_7752ddfc53ab5210043970c0a0490ec3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 14:13:55</sys_updated_on>
+        <title>Capstone Change Management Automation</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
